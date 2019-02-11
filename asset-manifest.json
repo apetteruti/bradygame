@@ -1,0 +1,13 @@
+{
+  "main.css": "/bradygame/static/css/main.1ffd7d12.chunk.css",
+  "main.js": "/bradygame/static/js/main.1ff1a285.chunk.js",
+  "main.js.map": "/bradygame/static/js/main.1ff1a285.chunk.js.map",
+  "static/js/1.13eeb203.chunk.js": "/bradygame/static/js/1.13eeb203.chunk.js",
+  "static/js/1.13eeb203.chunk.js.map": "/bradygame/static/js/1.13eeb203.chunk.js.map",
+  "runtime~main.js": "/bradygame/static/js/runtime~main.82b69331.js",
+  "runtime~main.js.map": "/bradygame/static/js/runtime~main.82b69331.js.map",
+  "static/css/main.1ffd7d12.chunk.css.map": "/bradygame/static/css/main.1ffd7d12.chunk.css.map",
+  "index.html": "/bradygame/index.html",
+  "precache-manifest.5d94e79bf62ea3233136efb54a8b763d.js": "/bradygame/precache-manifest.5d94e79bf62ea3233136efb54a8b763d.js",
+  "service-worker.js": "/bradygame/service-worker.js"
+}
